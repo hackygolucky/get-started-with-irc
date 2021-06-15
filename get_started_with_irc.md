@@ -32,8 +32,8 @@ Follow install instructions.
 * Register your nick:
   * `/msg Nickserv REGISTER password email@address`
   * DON'T use a personal password.
-* Get on the server _irc.freenode.net_
-  * Port 6667
+* Get on the server _irc.libera.chat_
+  * Port 6697
 * Add some channels!
   * #pyladiespdx 
   * #pdxpython 
